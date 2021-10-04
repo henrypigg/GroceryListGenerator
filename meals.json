@@ -1,0 +1,103 @@
+{
+    "Mac_and_Cheese": {
+        "ingredients": [
+            {
+                "name": "cheese",
+                "amount": "1",
+                "units": "cup"
+            },
+            {
+                "name": "milk",
+                "amount": "2",
+                "units": "cup"
+            },
+            {
+                "name": "butter",
+                "amount": "6",
+                "units": "tbs"
+            }
+        ]
+    },
+    "Quesadilla": {
+        "ingredients": [
+            {
+                "name": "tortilla",
+                "amount": "2",
+                "units": "pcs"
+            },
+            {
+                "name": "cheese",
+                "amount": "1",
+                "units": "cup"
+            }
+        ]
+    },
+    "Korean_Beef": {
+        "ingredients": [
+            {
+                "name": "brown_sugar",
+                "amount": "0.25",
+                "units": "cup"
+            },
+            {
+                "name": "soy_sauce",
+                "amount": "0.25",
+                "units": "cup"
+            },
+            {
+                "name": "sesame_oil",
+                "amount": "2",
+                "units": "tsp"
+            },
+            {
+                "name": "red_pepper_flakes",
+                "amount": "0.5",
+                "units": "tsp"
+            },
+            {
+                "name": "ginger",
+                "amount": "0.25",
+                "units": "tsp"
+            },
+            {
+                "name": "vegetable_oil",
+                "amount": "1",
+                "units": "tbs"
+            },
+            {
+                "name": "garlic",
+                "amount": "3",
+                "units": "pcs"
+            },
+            {
+                "name": "ground_beef",
+                "amount": "1",
+                "units": "lb"
+            },
+            {
+                "name": "green_onions",
+                "amount": "2",
+                "units": "pcs"
+            },
+            {
+                "name": "sesame_seeds",
+                "amount": "0.25",
+                "units": "tsp"
+            }
+        ]
+    },
+    "Orange_Chicken": {
+        "ingredients": [
+            {
+                "name": "chicken_breast",
+                "amount": "2",
+                "units": "pcs"
+            },
+            {
+                "name": "orange_flavor",
+                "amount": "3",
+                "units": "cup"
+            }
+        ]
+    }
+}
